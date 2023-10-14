@@ -1,7 +1,0 @@
-2023/10/14-00:15:29.275 1f60 Recovering log #29
-2023/10/14-00:15:29.291 1f60 Delete type=0 #29
-2023/10/14-00:15:29.291 1f60 Delete type=3 #27
-2023/10/14-00:15:50.994 cd4 Level-0 table #35: started
-2023/10/14-00:15:50.994 cd4 Level-0 table #35: 0 bytes OK
-2023/10/14-00:15:51.002 cd4 Delete type=0 #33
-2023/10/14-00:15:51.002 cd4 Manual compaction at level-0 from '!actors!003xpUCd1M6OZo7p' @ 72057594037927935 : 1 .. '!actors.items!yppnWOIOdCX25G6c.vHWnHNDkG2x0tELp' @ 0 : 0; will stop at (end)
