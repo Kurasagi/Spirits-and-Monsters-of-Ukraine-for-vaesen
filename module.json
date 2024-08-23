@@ -11,7 +11,6 @@
   "authors": [
     {
       "name": "Kurasagi",
-      "url": "https://github.com/Kurasagi/Spirits-and-Monsters-of-Ukraine-for-vaesen",
       "flags": {}
     }
   ],
@@ -25,10 +24,10 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Kurasagi/Spirits-and-Monsters-of-Ukraine-for-vaesen/main/module.json",
-  "download": "https://github.com/Kurasagi/Spirits-and-Monsters-of-Ukraine-for-vaesen/archive/refs/heads/main.zip"
+  "download": "https://github.com/Kurasagi/Spirits-and-Monsters-of-Ukraine-for-vaesen/archive/refs/heads/main.zip",
+  "url": "https://github.com/Kurasagi/Spirits-and-Monsters-of-Ukraine-for-vaesen"
 }
