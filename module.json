@@ -2,7 +2,7 @@
   "id": "Spirits-and-Monsters-of-Ukraine-for-vaesen",
   "title": "Vaesen Духи та монстри Міфічної України",
   "description": "Модуль для FoundryVTT та системи Vaesen. Який дозволяє вам використовувати в своїй пригоді весенів заснованих на українській міфології за основу взятий збірник Vaesen: Духи та монстри Міфічної України",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
